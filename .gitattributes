@@ -1,1 +1,5 @@
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
+checkpoint-11937/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+checkpoint-11937/*.pt filter=lfs diff=lfs merge=lfs -text
+/Users/M133326/Downloads/home/jeru/EchoGPT/QLORA_FT/LLAMA2-11-29-23\\*/results/checkpoint-11937/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+/Users/M133326/Downloads/home/jeru/EchoGPT/QLORA_FT/LLAMA2-11-29-23\\*/results/checkpoint-11937/*.pt filter=lfs diff=lfs merge=lfs -text
