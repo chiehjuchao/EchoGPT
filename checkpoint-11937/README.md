@@ -11,23 +11,20 @@ EchoGPT is a fine-tuned LLM that handles echocardiography report summarization t
 
 ### Model Description
 
-- **Developed by: Chieh-Ju Chao
-- **Language(s) (NLP): English
+- Developed by: Chieh-Ju Chao
+- Language(s) (NLP): English
 
-- **Repository: https://github.com/chiehjuchao/EchoGPT
-- **Paper: https://www.medrxiv.org/content/10.1101/2024.01.18.24301503v3
-
-### Recommendations
-
-<!-- This section is meant to convey recommendations with respect to the bias, risk, and technical limitations. -->
-
-Users (both direct and downstream) should be made aware of the risks, biases, and limitations of the model. More information needed for further recommendations.
+- Repository: https://github.com/chiehjuchao/EchoGPT
+- Paper: https://www.medrxiv.org/content/10.1101/2024.01.18.24301503v3
 
 ## How to Get Started with the Model
 
 Use the code below to get started with the model.
 
-[More Information Needed]
+Clone repo and set environment.
+git clone https://github.com/chiehjuchao/EchoGPT.git
+cd EchoGPT
+
 
 ## Evaluation
 
