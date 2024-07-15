@@ -1,23 +1,3 @@
-{
-  "alpha_pattern": {},
-  "auto_mapping": null,
-  "base_model_name_or_path": "meta-llama/Llama-2-7b-chat-hf",
-  "bias": "none",
-  "fan_in_fan_out": false,
-  "inference_mode": true,
-  "init_lora_weights": true,
-  "layers_pattern": null,
-  "layers_to_transform": null,
-  "lora_alpha": 16,
-  "lora_dropout": 0.1,
-  "modules_to_save": null,
-  "peft_type": "LORA",
-  "r": 64,
-  "rank_pattern": {},
-  "revision": null,
-  "target_modules": [
-    "v_proj",
-    "q_proj"
-  ],
-  "task_type": "CAUSAL_LM"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:498f3ff7cc4be6cf38cdc3aed2a13d45fc589f99c46d641121f3f9cfcae21b4d
+size 496
