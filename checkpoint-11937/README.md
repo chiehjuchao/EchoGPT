@@ -41,14 +41,6 @@ Use the code below to get started with the model.
 
 ## Citation [optional]
 
-<!-- If there is a paper or blog post introducing the model, the APA and Bibtex information for that should go in this section. -->
-
-**BibTeX:**
-
-[More Information Needed]
-
-**APA:**
-
-[More Information Needed]
+Chao, C.-J., Banerjee, I., Arsanjani, R., Ayoub, C., Tseng, A., Delbrouck, J.-B., Kane, G. C., Lopez-Jimenez, F., Attia, Z., Oh, J. K., Erickson, B., Fei-Fei, L., Adeli, E. & Langlotz, C. (2024). Evaluating Large Language Models in Echocardiography Reporting: Opportunities and Challenges. MedRxiv, 2024.01.18.24301503. https://doi.org/10.1101/2024.01.18.24301503
 
 
