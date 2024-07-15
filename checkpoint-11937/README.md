@@ -29,14 +29,6 @@ Use the code below to get started with the model.
 
 [More Information Needed]
 
-## Training Details
-
-### Training Data
-
-<!-- This should link to a Data Card, perhaps with a short stub of information on what the training data is all about as well as documentation related to data pre-processing or additional filtering. -->
-
-[More Information Needed]
-
 ## Evaluation
 
 <!-- This section describes the evaluation protocols and provides the results. -->
