@@ -5,9 +5,7 @@ base_model: meta-llama/Llama-2-7b-chat-hf
 
 # Model Card for Model ID
 
-<!-- Provide a quick summary of what the model is/does. -->
-
-
+EchoGPT is a fine-tuned LLM that handles echocardiography report summarization tasks, generating clinically relevant "Final Impressions" from "Findings."
 
 ## Model Details
 
@@ -17,20 +15,11 @@ base_model: meta-llama/Llama-2-7b-chat-hf
 
 
 
-- **Developed by:** [More Information Needed]
-- **Shared by [optional]:** [More Information Needed]
-- **Model type:** [More Information Needed]
-- **Language(s) (NLP):** [More Information Needed]
-- **License:** [More Information Needed]
-- **Finetuned from model [optional]:** [More Information Needed]
+- **Developed by: Chieh-Ju Chao
+- **Language(s) (NLP): English
 
-### Model Sources [optional]
-
-<!-- Provide the basic links for the model. -->
-
-- **Repository:** [More Information Needed]
-- **Paper [optional]:** [More Information Needed]
-- **Demo [optional]:** [More Information Needed]
+- **Repository: https://github.com/chiehjuchao/EchoGPT
+- **Paper: https://www.medrxiv.org/content/10.1101/2024.01.18.24301503v3
 
 ## Uses
 
