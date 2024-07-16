@@ -23,9 +23,11 @@ Use the code below to get started with the model.
 
 Clone repo and set environment.
 
+```bash
 git clone https://github.com/chiehjuchao/EchoGPT.git
 
 cd EchoGPT
+```
 
 
 ## Evaluation
