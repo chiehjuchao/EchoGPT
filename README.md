@@ -21,14 +21,17 @@ EchoGPT is a fine-tuned LLM that handles echocardiography report summarization t
 
 Use the code below to get started with the model.
 
-Clone repo and set environment.
+Clone repo:  
 
 ```bash
 git clone https://github.com/chiehjuchao/EchoGPT.git
 
 cd EchoGPT
 ```
-
+Set environment:
+```bash
+pip install -r requirements.txt
+```
 
 ## Evaluation
 
