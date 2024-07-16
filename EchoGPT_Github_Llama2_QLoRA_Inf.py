@@ -5,7 +5,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 
 import json
 # Specify the path to your JSON file
-json_file_path = 'file_path'  # Update the file path as needed
+json_file_path = 'EchoGPT/EchoGPT_syndata.json'  # Update the file path as needed
 
 # Open and read the JSON file
 with open(json_file_path, 'r') as json_file:
