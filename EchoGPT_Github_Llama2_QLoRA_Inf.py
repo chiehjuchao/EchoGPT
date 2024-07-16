@@ -45,7 +45,7 @@ from transformers import (
 )
 
 # Load the checkpoint and merge QLoRA weights
-check_point_dir = "checkpoint_dir"
+check_point_dir = "EchoGPT/checkpoint-11937/"
 print(check_point_dir)
 
 config = PeftConfig.from_pretrained(check_point_dir)
