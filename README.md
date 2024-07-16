@@ -34,14 +34,10 @@ pip install -r requirements.txt
 ```
 
 ## Evaluation
-
-<!-- This section describes the evaluation protocols and provides the results. -->
-
-### Testing Data, Factors & Metrics
-
-#### Testing Data
-
-<!-- This should link to a Data Card if possible. -->
+Run the inference script for echo report summarization:
+```bash
+python EchoGPT_Github_Llama2_QLoRA_Inf.py
+```
 
 ## Citation
 
